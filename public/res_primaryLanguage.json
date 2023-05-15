@@ -84,10 +84,10 @@
         "company": "Vibe Smoothie Bar",
         "title": "Owner/Operator",
         "years": "03.2021 - 12.2022",
-        "Description": [
+        "mainTech": [
           "Entrepreneur"
         ],
-        "Skills": [
+        "technologies": [
           "Canva",
           "Brand Development",
           "Website Maintenance",

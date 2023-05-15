@@ -35,8 +35,8 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "301 Final Project",
+        "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
@@ -55,8 +55,8 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Another Project",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
@@ -81,22 +81,22 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
+        "company": "Vibe Smoothie Bar",
+        "title": "Owner/Operator",
+        "years": "03.2021 - 12.2022",
+        "Description": [
+          "Entrepreneur"
         ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+        "Skills": [
+          "Canva",
+          "Brand Development",
+          "Website Maintenance",
+          "Web Design",
+          "Product Design & Implementation",
+          "Payroll Management",
+          "Hiring Manager",
+          "Team Management & Training",
+          "Customer Service Manager"
         ]
       },
       {

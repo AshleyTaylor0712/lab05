@@ -98,7 +98,7 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner" style={{height: '100%', backgroundImage: 'url(img/home.png)'}}>
+        <div className="row aligner" style={{height: '100%', backgroundImage: 'url(pulbic/img/home.png)'}}>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
